@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auth</string>
+    <string name="login">Логин</string>
+    <string name="loginhint">Введите логин..</string>
+    <string name="pass">Пароль</string>
+    <string name="passhint">Введите пароль..</string>
+    <string name="check">Проверить</string>
+    <string name="back">Назад</string>
+</resources>
